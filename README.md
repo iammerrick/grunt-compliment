@@ -12,7 +12,7 @@ grunt-compliment is a grunt task that dishes out a compliment whenever you need 
 grunt.initConfig({
   compliment: [
     'You are the greatest!',
-    'Please, don't ever leave. You give me purpose.'
+    'Please, don\'t ever leave. You give me purpose.'
   ]
 });
 
