@@ -1,0 +1,29 @@
+{
+  "name": "grunt-compliment",
+  "description": "Grunt task for giving you the compliment you deserve. Treat yo' self!",
+  "version": "0.0.1",
+  "homepage": "https://github.com/iammerrick/grunt-compliment",
+  "author": {
+    "name": "Merrick Christensen",
+    "email": "merrick.christensen@gmail.com",
+    "url": "http://merrickchristensen.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iammerrick/grunt-compliment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iammerrick/grunt-compliment/issues"
+  },
+  "main": "grunt.js",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.3"
+  },
+  "keywords": [
+    "gruntplugin",
+    "compliment"
+  ]
+}
